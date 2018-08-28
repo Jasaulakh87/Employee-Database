@@ -1,0 +1,44 @@
+.style{
+    background-color: rgb(248, 233, 219);
+    color: rgb(36, 35, 34);   
+}
+
+.style h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul.button  {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 8px;
+    background-color: #494030;
+    color: rgb(36, 35, 34);
+}
+
+li {
+    float: left;
+    padding: 10px;
+    
+}
+button{
+    width: 100px;
+    color: black;
+    background-color: bisque;
+}
+
+.top-bar{ 
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.navbar{
+    background-color:rgb(145, 134, 121);
+}
+
+.cancel{
+    background-color: #494030;
+    color: rgb(36, 35, 34);
+    margin-top: 50px;
+}
+

@@ -1,0 +1,11 @@
+.row{
+    height: 30%;
+    width: 40%;
+    margin: 40px;
+    border: 2px solid black;
+    
+}
+
+ .TableHeaderColumn{
+    border: 1px solid black;
+}
