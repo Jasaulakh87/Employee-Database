@@ -1,0 +1,15 @@
+To run the React application server, you'll need the Node.js JavaScript runtime and npm (the Node.js package manager) installed. npm is included with Node.js 
+
+--> In Visualstudio code, Click on view and open Terminal.
+--> In Terminal , type
+  -npm init
+  -npm install react react-dom --save
+  -npm install babel-preset -env babel-preset-react
+  -npm install -g parcel-bundler  
+--> Create a new file 'babel.rc' in visual studio code and put following code and save the file.
+    {
+      "presets" : [
+          "env", "react"
+      ]
+    }
+    
